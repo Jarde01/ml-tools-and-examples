@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 .vscode/
 wandb/
+train-data.pkl
+train-data_seqlengh-1500.pkl
+train-data.pkl
